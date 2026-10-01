@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Café",
+        "precio": 2500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Té",
+        "precio": 1800,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "nombre": "Medialuna",
+        "precio": 1200,
+        "stock": 15
+    },
+    {
+        "id": 4,
+        "nombre": "Tostado",
+        "precio": 4500,
+        "stock": 6
+    }
+]
